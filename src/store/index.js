@@ -4,6 +4,6 @@ import Books from "./modules/books";
 Vue.use(Vuex)
 export default new Vuex.Store({
   modules: {
-      Books
+		Books,
 	}
 });
